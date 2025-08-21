@@ -1,7 +1,8 @@
-# 🏦 Banking System (Python, OOP, CLI)
+ 🏦 Banking System (Python, OOP, CLI)
+
+[![Dockerized](https://img.shields.io/badge/Dockerized-Yes-blue?logo=docker&logoColor=white)](https://www.docker.com/)
 
 A multi-module **banking application** built in Python that simulates the core functionality of a retail bank.  
-Users can create accounts, authenticate with a PIN, perform transactions, and manage balances — all through a clean command-line interface.  
 
 ## 🚀 Features
 - **Account Management**
